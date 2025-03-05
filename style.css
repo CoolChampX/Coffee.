@@ -209,7 +209,7 @@ button:hover {
 }  
 .main-btn {
     position: relative;
-    color: var(--light-color);
+    color: #C4A484;
     background: linear-gradient(to right, #000000, #a29595);
     z-index: 1;
     overflow: hidden;
